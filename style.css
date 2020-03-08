@@ -24,3 +24,7 @@ figure {
 p {
     text-align: left;
 }
+body {
+    background: (0, 123, 13);
+    background-size: cover;
+}

@@ -1,0 +1,469 @@
+body {
+  margin: 0;
+  position: relative;
+}
+.conteiner {
+  width: 1219px;
+  position: relative;
+  margin: 0 auto;
+  padding: 0px 55px;
+}
+.header {
+  position: fixed;
+  width: 100%;
+  height: 84px;
+  left: 0px;
+  top: 0px;
+  background: #007765;
+}
+.header-first_img {
+  position: absolute;
+  left: 55px;
+  top: 20px;
+}
+.header-second_img {
+  position: absolute;
+  left: 55.04px;
+  top: 20px;
+}
+.problem {
+  position: absolute;
+  width: 129px;
+  height: 29px;
+  right: 349px;
+  top: 28px;
+  margin: 0;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+.slesh1 {
+  position: absolute;
+  width: 7px;
+  height: 29px;
+  right: 334px;
+  top: 28px;
+  margin: 0;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+.PiedPiperCoin {
+  position: absolute;
+  width: 154px;
+  height: 29px;
+  right: 172px;
+  top: 29px;
+  margin: 0;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+.slesh2 {
+  position: absolute;
+  width: 7px;
+  height: 29px;
+  right: 157px;
+  top: 29px;
+  margin: 0;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+.the_team {
+  position: absolute;
+  width: 95px;
+  height: 29px;
+  right: 54px;
+  top: 29px;
+  margin: 0;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #ffffff;
+}
+.izumrud {
+  background: url("file:///C:/Users/Алексей/media/picture/image.png");
+  background-size: cover;
+  position: absolute;
+  width: 100%;
+  height: 403px;
+  left: 0px;
+  top: 84px;
+}
+#PiperNet {
+  position: absolute;
+  width: 1219px;
+  height: 83px;
+  left: 0px;
+  top: 160px;
+  margin: 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 84px;
+  text-align: center;
+  color: #ffffff;
+}
+#Problem {
+  position: absolute;
+  width: 1107px;
+  height: 75px;
+  left: 55px;
+  top: 451px;
+  margin: 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+}
+#Text_Problem {
+  position: absolute;
+  width: 1110px;
+  height: 488px;
+  left: 55px;
+  top: 542px;
+  margin: 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+.blue {
+  position: absolute;
+  width: 100%;
+  height: 483px;
+  left: 0px;
+  top: 1206px;
+  background: url("file:///C:/Users/Алексей/media/picture/image(1).png");
+}
+#together {
+  position: absolute;
+  width: 893px;
+  height: 228px;
+  left: 163px;
+  top: 128px;
+  margin: 0px;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #ffffff;
+}
+#Introducing {
+  position: absolute;
+  width: 1110px;
+  height: 75px;
+  top: 1737px;
+  left: 55px;
+  margin: 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+}
+#logo {
+  position: absolute;
+  width: 115px;
+  height: 115px;
+  left: 55px;
+  top: 1828px;
+  margin: 0px;
+  background: url("file:///C:/Users/Алексей/media/picture/PPC Logo.png");
+}
+#Pied {
+  position: absolute;
+  width: 930px;
+  height: 110px;
+  left: 218px;
+  top: 1828px;
+  margin: 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+.credit {
+  position: absolute;
+  width: 1110px;
+  height: 223px;
+  left: 55px;
+  top: 1978px;
+  margin: 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+#Team {
+  position: absolute;
+  width: 1110px;
+  height: 75px;
+  left: 55px;
+  top: 48px;
+  margin: 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  text-align: center;
+  color: #007765;
+}
+.bg {
+  position: absolute;
+  width: 1219px;
+  height: 845px;
+  left: 0px;
+  top: 2293px;
+  margin: 0px;
+  background: #eeeeee;
+}
+.pic1 {
+  position: absolute;
+  width: 168px;
+  height: 168px;
+  left: 146px;
+  top: 179px;
+  background: url("file:///C:/Users/Алексей/media/picture/1.png");
+}
+#Richard {
+  position: absolute;
+  width: 199px;
+  height: 29px;
+  left: 132px;
+  top: 359px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  color: #007765;
+}
+#Founder {
+  position: absolute;
+  width: 125px;
+  height: 22px;
+  left: 163px;
+  top: 388px;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+.pic2 {
+  position: absolute;
+  width: 168px;
+  height: 168px;
+  left: 526px;
+  top: 179px;
+  background: url("file:///C:/Users/Алексей/media/picture/2.png");
+}
+#Dinesh {
+  position: absolute;
+  width: 350px;
+  height: 29px;
+  left: 435px;
+  top: 359px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #007765;
+}
+#Senior {
+  position: absolute;
+  width: 350px;
+  height: 22px;
+  left: 435px;
+  top: 388px;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #000000;
+}
+.pic3 {
+  position: absolute;
+  width: 168px;
+  height: 168px;
+  left: 906px;
+  top: 179px;
+  background: url("file:///C:/Users/Алексей/media/picture/3.png");
+}
+#Bertram {
+  position: absolute;
+  width: 350px;
+  height: 29px;
+  left: 815px;
+  top: 355px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #007765;
+}
+#Chief {
+  position: absolute;
+  width: 350px;
+  height: 22px;
+  left: 815px;
+  top: 388px;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #000000;
+}
+.pic4 {
+  position: absolute;
+  width: 168px;
+  height: 168px;
+  left: 146px;
+  top: 492px;
+  background: url("file:///C:/Users/Алексей/media/picture/4.png");
+}
+#Jared {
+  position: absolute;
+  width: 350px;
+  height: 29px;
+  left: 55px;
+  top: 672px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #007765;
+}
+#Operating {
+  position: absolute;
+  width: 350px;
+  height: 22px;
+  left: 55px;
+  top: 701px;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #000000;
+}
+.pic5 {
+  position: absolute;
+  width: 168px;
+  height: 168px;
+  left: 526px;
+  top: 492px;
+  background: url("file:///C:/Users/Алексей/media/picture/5.png");
+}
+#Monica {
+  position: absolute;
+  width: 350px;
+  height: 29px;
+  left: 435px;
+  top: 672px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #007765;
+}
+#Financial {
+  position: absolute;
+  width: 350px;
+  height: 22px;
+  left: 435px;
+  top: 701px;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #000000;
+}
+.pic6 {
+  position: absolute;
+  width: 168px;
+  height: 168px;
+  left: 906px;
+  top: 492px;
+  background: url("file:///C:/Users/Алексей/media/picture/6.png");
+}
+#Nelson {
+  position: absolute;
+  width: 350px;
+  height: 29px;
+  left: 815px;
+  top: 672px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #007765;
+}
+#Investor {
+  position: absolute;
+  width: 350px;
+  height: 22px;
+  left: 815px;
+  top: 701px;
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #000000;
+}
